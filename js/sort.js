@@ -1,3 +1,5 @@
+/* Author: Denis Petyukov <denis.petyukov@gmail.com> */
+
 (function(){
     var filter = document.querySelector('.filter'),
         allButton = filter.querySelector('.all'),

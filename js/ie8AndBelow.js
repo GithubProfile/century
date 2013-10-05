@@ -1,3 +1,5 @@
+/* Author: Denis Petyukov <denis.petyukov@gmail.com> */
+
 (function(){
     var getFirstEl = function(el) {
             return document.getElementsByTagName(el)[0];
