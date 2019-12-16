@@ -1,4 +1,4 @@
-/* Author: Denis Petyukov <denis.petyukov@gmail.com> */
+/* Author: Denys Petiukov <denys.petiukov@gmail.com> */
 
 (function(){
     var getFirstEl = function(el) {
