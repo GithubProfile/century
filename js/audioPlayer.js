@@ -1,4 +1,4 @@
-/* Author: Denys Petiukov <denys.petiukov@gmail.com> */
+/*! Copyright (c) 2013 Denys Petiukov. License: BSD 3-Clause. */
 
 (function(){
     var audioPlayer = document.querySelectorAll('.audioPlayer'),
