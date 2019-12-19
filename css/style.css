@@ -531,3 +531,53 @@ footer .widget {
     font-size: .8em;
     margin-left: 10px;
 }
+/*advertisement*/
+/* .advertisement {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, .4);
+    height: 100%;
+}
+.advertisement-inner {
+    max-width: 1190px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    padding: 0 5px;
+    background: rgba(0, 0, 0, .6);
+    margin-top: 45px;
+}
+.advertisement p {
+    font-size: 36px;
+}
+.advertisement a {
+    color: white;
+}
+.advertisement span {
+    display: block;
+    margin-top: 15px;
+}
+.advertisement span a {
+    border: 1px solid #256de3;
+    border-radius: 27px;
+    background: #63abff;
+    background: linear-gradient(#63abff, #256de3);
+    padding: 6px 20px;
+    text-shadow: 0 -2px 1px #3263ad;
+    white-space: nowrap;
+}
+.advertisement a:hover {
+    color: rgb(200, 256, 256);
+}
+.advertisement .close-button {
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    right: 10px;
+    top: 10px;
+    position: absolute;
+} */
