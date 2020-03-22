@@ -214,6 +214,9 @@ header {
     text-align: left;
     margin-bottom: 25px;
 }
+.postExcerpt.hide {
+    display: none;
+}
 .postExcerpt h2 {
     font-size: .95em;
     text-align: left;
